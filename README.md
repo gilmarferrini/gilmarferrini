@@ -1,6 +1,6 @@
 # Olá, sou Gilmar Ferrini 👋
 
-- 🔭 Atualmente estou trabalhando como Programador de Sistema
+- 🔭 Atualmente estou trabalhando como Programador de Sistemas.
 - 🌱 Estou estudando sobre Kubernates, Docker, Nodejs e aws.
 
 ![Otacilio's github stats](https://github-readme-stats.vercel.app/api?username=gilmarferrini&show_icons=true&theme=radical)
