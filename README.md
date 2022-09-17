@@ -6,7 +6,14 @@
   </a>
 </p>
 
-- 🌱 Estou estudando sobre Kubernates, Docker, Nodejs e aws.
+- 🌱 Estou estudando sobre Nodejs, React, Angular, Docker, Nodejs e AWS.
+<hr />
+
+<div>
+  <h2>Badges LinuxTips</h2>
+  <img style="height: 200px; width: 200px;" src="https://user-images.githubusercontent.com/51804511/190870166-5db9aeff-a67e-4aad-b2a6-a2f60238082c.png" />
+</div>
+<hr />
 
 ![Otacilio's github stats](https://github-readme-stats.vercel.app/api?username=gilmarferrini&show_icons=true&theme=radical)
 
