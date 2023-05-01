@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🌱 Estou estudando sobre Nodejs, React, Angular, Docker, Nodejs e AWS.
+- 🌱 Estou estudando sobre AWS e Serverless.
 <hr />
 
 <div>
